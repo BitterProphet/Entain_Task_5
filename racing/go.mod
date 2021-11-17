@@ -1,4 +1,4 @@
-module git.neds.sh/matty/entain/racing
+module github.com/BitterProphet/Entain_Task_5/racing
 
 go 1.16
 

@@ -1,4 +1,4 @@
-module git.neds.sh/matty/entain/api
+module github.com/BitterProphet/Entain_Task_5/api
 
 go 1.16
 
